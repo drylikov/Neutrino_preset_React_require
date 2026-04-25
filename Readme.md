@@ -7,7 +7,7 @@ Auto import React when JSX is detected.
 Grab the preset:
 
 ```
-$ yarn add -D neutrino-preset-react-require
+$ yarn add -D neutrino_preset_react_require
 ```
 
 Add it to your package.json:
@@ -16,8 +16,8 @@ Add it to your package.json:
 {
   "neutrino": {
     "use": [
-      "neutrino-preset-react",
-      "neutrino-preset-react-require"
+      "neutrino_preset_react",
+      "neutrino_preset_react_require"
     ]
   }
 }
