@@ -42,4 +42,3 @@ export default function Spinner({ size = 'small' }) {
   return <div className={`Spinner size-${size}`}></div>
 }
 ```
-
